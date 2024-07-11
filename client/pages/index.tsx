@@ -4,7 +4,7 @@ import { FaCompass } from "react-icons/fa";
 import { BiSolidBookmark } from "react-icons/bi";
 import { FaBell } from "react-icons/fa";
 import { FaShoppingCart } from "react-icons/fa";
-import imggg from "../public/Group 27.png";
+import imggg from "../public/Group.png";
 import Image from 'next/image';
 
 
