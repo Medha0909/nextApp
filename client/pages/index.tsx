@@ -204,7 +204,7 @@ export default function Home() {
               </div>
             </div>
             <div className="img pq">
-              <Image src="" alt="..." />
+              <Image src={imggg} alt="..." />
             </div>
           </div>
           <div className="col-lg-6 hero" style={{ backgroundColor: "#F7F5F9" }}>
@@ -379,7 +379,7 @@ export default function Home() {
 
             <div className="col" style={{ backgroundColor: "#F7F5F9" }}>
               <div className="img" style={{ backgroundColor: "#F7F5F9" }}>
-                <Image className="iman" src="" alt="..." />
+                <Image className="iman" src={imggg} alt="..." />
               </div>
             </div>
           </div>
